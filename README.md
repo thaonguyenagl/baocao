@@ -1,4 +1,4 @@
-#Báo cáo 
+# Báo cáo 
 ## Cơ chế hoạt động của internet
 Khi chúng ta cần truy cập vào nội dung một trang web nào đấy, máy tính sẽ gửi yêu cầu qua máy chủ.
 Máy chủ là nơi sẽ lưu trữ toàn bộ nội dung cũng như thông tin các trang web, nó hoạt động như là ổ cứng của máy tính.
