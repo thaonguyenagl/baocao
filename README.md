@@ -15,7 +15,7 @@ Là giao thức truyền tải siêu văn bản có thể dưới dạng
 HTTP có bộ giao thức TCP/IP
 HTTP truy cập website sẽ hoạt động theo mô hình 
 * Server (máy chủ )
-*Client (máy khách)
+* Client (máy khách)
 
 Khi truy cập trang web với giao thức HTTP,  trình duyệt sẽ kết nối theo kiểu client và server
 Có thể hiểu mình là client sẽ có nhu cầu truy cập vào một trang web nào đấy thì sẽ thông qua địa chỉ là IP (là tên miền DNS cung cấp) sẽ gửi yêu cầu của mình 
